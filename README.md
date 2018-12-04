@@ -2,11 +2,12 @@
 
 # BUILD A BOD To-Do List
 
-* add columns to table
-* set up controllers for workouts and exercises -- rails g controller
-* CORS stuff and gem file set up
+* add columns to table --DONE
+* set up controllers for workouts and exercises -- rails g controller --DONE
+* CORS stuff and gem file set up --DONE
 * create seed data
-* serializers
+* create routes -- DONE
+* serializers --DONE
 
 * front-end
 * back-end
