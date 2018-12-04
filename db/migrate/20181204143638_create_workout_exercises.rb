@@ -1,6 +1,6 @@
-class CreateWorkoutsExercises < ActiveRecord::Migration[5.2]
+class CreateWorkoutExercises < ActiveRecord::Migration[5.2]
   def change
-    create_table :workouts_exercises do |t|
+    create_table :workout_exercises do |t|
       t.integer :workout_id
       t.integer :exercise_id
       t.timestamps
