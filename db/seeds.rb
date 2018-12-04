@@ -93,7 +93,7 @@ exercise24 = Exercise.create(name: 'flutter kicks', description: 'lie on your
 
 # chest exercises
 
-pushUps = Exercise.create(name: 'push ups', description: 'Inhale as you slowly
+exercise25 = Exercise.create(name: 'push ups', description: 'Inhale as you slowly
   bend your elbows and lower yourself until your elbows are at a 90-degree angle.
   Exhale as you begin contracting your chest muscles and pushing back up through
     your hands to the start position. Dont lock out the elbows; keep them
@@ -101,7 +101,7 @@ pushUps = Exercise.create(name: 'push ups', description: 'Inhale as you slowly
     image:'http://s3.amazonaws.com/prod.skimble/assets/936958/image_iphone.jpg',
     video: "" )
 
-bodyweightFlyes = Exercise.create(name: 'bodyweight flyes', description: 'Position
+exercise26 = Exercise.create(name: 'bodyweight flyes', description: 'Position
   two equally loaded EZ bars on the ground next to each other. Ensure they are able to roll.
 Assume a push-up position over the bars, supporting your weight on your toes and
 hands with your arms extended and body straight. Place your hands on the bars.
@@ -113,7 +113,7 @@ Exhale as you perform this movement.', muscle_group: 'chest',
 image:'https://weighttraining.guide/wp-content/uploads/2017/03/bodyweight-barbell-floor-fly.png',
 video: "" )
 
-dumbbellFlyes = Exercise.create(name: 'dumbbell flyes', description: 'Grasp two
+exercise27 = Exercise.create(name: 'dumbbell flyes', description: 'Grasp two
   dumbbells. Lie supine on bench. Support dumbbells above chest with arms fixed
   in slightly bent position. Internally rotate shoulders so elbows point out to
   sides. Lower dumbbells to sides until chest muscles are stretched with elbows
@@ -122,7 +122,7 @@ dumbbellFlyes = Exercise.create(name: 'dumbbell flyes', description: 'Grasp two
     image:'https://workoutlabs.com/train/svg.php?id=6005',
     video: "" )
 
-chestPress = Exercise.create(name: 'free weight chest press', description: 'Lie
+exercise28 = Exercise.create(name: 'free weight chest press', description: 'Lie
   down on your back on a bench and hold 2 dumbbells at chest level along your
   body, palms facing your feet. Raise the dumbbells straight up until your elbows
   are close to being locked and lower them back slowly after a short pause.
