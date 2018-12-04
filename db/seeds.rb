@@ -1,11 +1,10 @@
 #abs exercises
 
-crunches = Exercise.create(name: 'crunch', description: 'Lie on your back with
-  your knees bent and feet flat on the floor, hip-width apart. Place your hands
-  behind your head so your thumbs are behind your ears. Hold for a moment at the
+crunches = Exercise.create(name: 'crunch', description: 'Lie on your back with your knees bent and feet flat on the floor, hip-width apart. Place your hands behind your head so your thumbs are behind your ears. Hold for a moment at the
   top of the movement and then lower slowly back down.', muscle_group: 'abs',
   image:'https://cdn-xi3mbccdkztvoept8hl.netdna-ssl.com/wp-content/uploads/watermarked/Sit_up_Crunch_F_WorkoutLabs.png',
   video: "" )
+
 deadBug = Exercise.create(name: 'dead bug', description: 'Lie face-up with your
   arms extended toward the ceiling, directly over your shoulders, and knees bent
   90 degrees over hips, calves parallel to floor. Keeping your shoulders
@@ -13,6 +12,7 @@ deadBug = Exercise.create(name: 'dead bug', description: 'Lie face-up with your
   away from you. Tap your heel to floor and return to center.', muscle_group: 'abs',
   image:'https://s3.amazonaws.com/brightcove-still-assets/3924207686001.jpg',
   video: "" )
+
 russianTwist = Exercise.create(name: 'russian twist', description: 'Sit with
   your torso leaning back at a 45-degree angle, knees bent, and your feet either
   on the floor or elevated a few inches. In most variations you hold something
@@ -20,17 +20,19 @@ russianTwist = Exercise.create(name: 'russian twist', description: 'Sit with
   starting position you rotate your shoulders to the left and right.', muscle_group: 'abs',
   image:'https://image.shutterstock.com/image-photo/russian-twist-young-man-doing-260nw-570574084.jpg',
   video: "" )
+
 plank = Exercise.create(name: 'plank', description: 'hold a push-up initial
   position, with your weight on forearms, elbows, and toes.', muscle_group: 'abs',
   image:'https://cdn.lifehack.org/wp-content/uploads/2017/08/11072609/plank.jpg',
   video: "" )
+
 bicycles = Exercise.create(name: 'bicycle crunch', description: 'Lie on your back
   with your knees bent and feet flat on the floor. Place your hands behind head.
   Raise your shoulder blades off the ground and lift your legs off the floor and
   bend knees are to 90 degrees. Then slowly pedal them in the air, alternating as
   if riding a bicycle.', muscle_group: 'abs',
   image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaFGFQt90l8k0XeYhvab6my6NPwPhnd-NCWRF-_8GPVIZIUB1',
-  video: "")
+  video: "" )
 superMan = Exercise.create(name: 'superman', description: 'Simultaneously raise
   your arms, legs, and chest off of the floor and hold this contraction for 2 seconds.
   Squeeze your lower back to get the best results from this exercise.', muscle_group: 'abs',
