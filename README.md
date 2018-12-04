@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# BUILD A BOD To-Do List
 
-Things you may want to cover:
+* add columns to table
+* set up controllers for workouts and exercises -- rails g controller
+* CORS stuff and gem file set up
+* create seed data
+* serializers
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* front-end
+* back-end
