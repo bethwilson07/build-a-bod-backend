@@ -10,10 +10,8 @@
 * serializers --DONE
 
 * create a front-end repository
-  * create index.html
-  * make sure routes work
-  * make sure json data looks correct
-  * render data to DOM
-  * create forms for DOM
-  
+  * create index.html --DONE
+
 * back-end
+  * make sure routes work --DONE
+  * make sure json data looks correct --DONE
