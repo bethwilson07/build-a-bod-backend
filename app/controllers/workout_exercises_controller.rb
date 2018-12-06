@@ -12,6 +12,11 @@ class WorkoutExercisesController < ApplicationController
     render json: WorkoutExercise.create(strong_params)
   end
 
+  def update
+    WorkoutExercise.find(params[:id]).update(strong_params)
+    render json: WorkoutExercise.find(params[:id])
+  end
+
   def destroy
     render json: WorkoutExercise.find(params[:id]).destroy
   end
